@@ -17,14 +17,14 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /Status-Page
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  name: Daga321 Status
+  introTitle: "🚦 Daga321's Project Status Page"
+  introMessage: |
+    Welcome to the official status page for all of Daga321's projects! 🚀  
+    Here you can check the **real-time** status and uptime of my websites and apps.  
+    Powered by [Upptime](https://upptime.js.org) and GitHub Actions – no servers, just pure automation!  
+    If you see any issues, I'm probably already working on it. 😉  
+    Stay tuned for updates!  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
