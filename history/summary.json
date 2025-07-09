@@ -22,19 +22,19 @@
     "url": "https://daga321.github.io/LiquidApp/",
     "icon": "https://daga321.github.io/LiquidApp/Assets/favicon.ico",
     "slug": "liquid-app",
-    "status": "down",
-    "uptime": "89.88%",
-    "uptimeDay": "89.88%",
-    "uptimeWeek": "89.88%",
-    "uptimeMonth": "89.88%",
-    "uptimeYear": "89.88%",
-    "time": 138,
-    "timeDay": 138,
-    "timeWeek": 138,
-    "timeMonth": 138,
-    "timeYear": 138,
+    "status": "up",
+    "uptime": "2.86%",
+    "uptimeDay": "2.86%",
+    "uptimeWeek": "2.86%",
+    "uptimeMonth": "2.86%",
+    "uptimeYear": "2.86%",
+    "time": 229,
+    "timeDay": 229,
+    "timeWeek": 229,
+    "timeMonth": 229,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-07-09": 2
+      "2025-07-09": 600
     }
   }
 ]
