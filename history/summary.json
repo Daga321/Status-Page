@@ -4,19 +4,19 @@
     "url": "https://daga321.is-a.dev/",
     "icon": "https://daga321.is-a.dev/favicon.ico",
     "slug": "portafolio",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "89.74%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "99.66%",
+    "uptimeDay": "89.14%",
+    "uptimeWeek": "98.45%",
+    "uptimeMonth": "99.64%",
     "uptimeYear": "99.92%",
-    "time": 330,
-    "timeDay": 282,
-    "timeWeek": 294,
-    "timeMonth": 336,
-    "timeYear": 330,
+    "time": 331,
+    "timeDay": 295,
+    "timeWeek": 301,
+    "timeMonth": 337,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2025-11-18": 148
+      "2025-11-18": 157
     }
   },
   {
