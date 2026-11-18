@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 354,
-    "timeDay": 279,
-    "timeWeek": 488,
-    "timeMonth": 457,
+    "timeDay": 398,
+    "timeWeek": 457,
+    "timeMonth": 463,
     "timeYear": 360,
-    "dailyMinutesDown": {
-      "2025-11-18": 148
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LiquidApp",
@@ -31,12 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 482,
-    "timeDay": 376,
-    "timeWeek": 600,
-    "timeMonth": 565,
+    "timeDay": 626,
+    "timeWeek": 564,
+    "timeMonth": 577,
     "timeYear": 481,
     "dailyMinutesDown": {
-      "2025-11-18": 148,
       "2026-08-16": 17
     }
   }
